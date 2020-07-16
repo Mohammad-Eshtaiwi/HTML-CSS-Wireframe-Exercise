@@ -50,6 +50,9 @@ nav ul li a {
 .featured .container article:last-of-type {
   padding-left: 30px;
 }
+.featured .container article:last-of-type span {
+  font-size: 1.3rem;
+}
 .featured .container article:last-of-type p {
   height: calc(100% - 30px - 30px);
   overflow: scroll;
